@@ -20,8 +20,8 @@ Your users should be able to:
 -   **Bonus**: Build this project as a full-stack application
 
 ## Links
-- [live site]()
-- [solution]()
+- [live site](https://fantastic-chimera-d291aa.netlify.app/)
+- [solution](https://www.frontendmentor.io/solutions/interactive-comments-sections-using-react-and-tailwind-79MUKb_eZG)
 
 ## Built With
 - React
